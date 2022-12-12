@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '~bootstrap/scss/bootstrap';
+// Colori globali
+$rosso : #E6030C;
+
+.text-r {
+  color: $rosso;
+}
+.w-280 {
+  width: 285px;
+}
+.bg-r {
+  background-color: $rosso;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(#000000, #141414);
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
