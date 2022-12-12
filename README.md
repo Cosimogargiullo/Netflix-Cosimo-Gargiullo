@@ -8,7 +8,7 @@ Installazione:
 3)npm install @auth0/angular-jwt
 4)npm install -D json-server json-server-auth
 5)npm i concurrently -D
-5)npm run full-stack
+6)npm run full-stack
 
 USER EXP 
 email: admin@admin.com
